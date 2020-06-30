@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "name": "the main post",
+    "content": "try to disply the JSOn",
+    "Slog": "hello my India"
+},
+{
+    "id": 2,
+    "name": "the second post ",
+    "content": "try to disply the JSOn in the react",
+    "Slog": "hello my world"
+
+}]
